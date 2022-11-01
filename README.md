@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**caiobulha/caiobulha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi!! 💪🏻</h3>
 
-Here are some ideas to get you started:
+My name is <strong>Caio Bulha</strong>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a brazilian programming student, and a part-timer at <strong>Picpay</strong>.
+
+#### Contact me here
+
+[![Gmail](https://img.shields.io/badge/Gmail-4A154B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.bsilva.ext@picpay.com)
+
+#### Check some of the technologies i am studying or working with
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Now.. How about having a look at my GitHub activity stats?
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herlss&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herlss&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
