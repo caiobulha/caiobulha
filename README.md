@@ -24,5 +24,5 @@ I'm a brazilian programming student, and a part-timer at <strong>Picpay</strong>
 
 #### Now.. How about having a look at my GitHub activity stats?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herlss&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herlss&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiobulha&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiobulha&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
